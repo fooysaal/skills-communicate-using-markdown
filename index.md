@@ -10,3 +10,8 @@
 ``` javascript
  var showOff = False
 ```
+
+### What to do!
+- [ ] Create
+- [x] Learn
+- [ ] Be Happy!
